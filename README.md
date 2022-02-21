@@ -106,6 +106,7 @@ urlpatterns = [
 ]
 
 ```
+
 ## OUTPUT:
 ### Before Calculation:
 ![out1](./out1.png)
